@@ -1,7 +1,7 @@
 {
   "name": "ab-scroll-util",
-  "version": "0.0.1",
-  "description": "Simple scroll utilities in vanilla J",
+  "version": "0.0.2",
+  "description": "Simple scroll utilities in vanilla JS",
   "main": "index.js",
   "keywords": [
     "scroll"
